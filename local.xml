@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods" thread-count="3">
+
+    <listeners>
+        <listener class-name="com.automation.steps.reusableComponents.ExtentReportListeners"/>
+    </listeners>
+
+    <test verbose="2" name="AdactinHotelAutomationFramework">
+        <classes>
+            <class name="com.automation.steps.tests.TestCases"/>
+        </classes>
+    </test>
+</suite>

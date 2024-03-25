@@ -1,0 +1,8 @@
+[INFO ] 2024-03-22 09:42:37.195 - 
+
+Execution Started: testBookHotel
+[INFO ] 2024-03-22 09:42:37.242 - com.automation.steps.tests.TestCases: testBookHotel - on line 56 → Select  Hotel was successful
+[INFO ] 2024-03-22 09:44:31.783 - 
+
+Execution Started: testBookHotel
+[INFO ] 2024-03-22 09:44:31.829 - com.automation.steps.tests.TestCases: testBookHotel - on line 56 → Select  Hotel was successful
